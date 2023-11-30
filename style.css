@@ -4,11 +4,6 @@ padding:0;
 box-sizing: border-box;
 font-family: 'arial';
 }
-.contractuss{
-    grid-row-start: 160;
-    grid-column-start: 48;
-    grid-column-end: 114;
-}
 .contractuss
 {
     background:linear-gradient(90deg,darkolivegreen,rgb(214, 240, 171))
