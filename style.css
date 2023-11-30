@@ -107,6 +107,7 @@ font-family: 'arial';
 }
 .info{
     background: darkolivegreen;
+    height:auto;
 }
 .info .raf{
     color: white;
