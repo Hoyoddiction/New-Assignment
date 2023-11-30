@@ -6,8 +6,8 @@ font-family: 'arial';
 }
 .contractuss
 {
-    background:linear-gradient(90deg,darkolivegreen,rgb(214, 240, 171))
-    width:100%
+    background:linear-gradient(90deg,darkolivegreen,rgb(214, 240, 171));
+    width:100%;
 }
 .contactus{
     position:relative;
